@@ -113,3 +113,144 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1692815124135	geckodriver	INFO	Listening on 127.0.0.1:50483
+1692815125147	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7LHber"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692815126248	Marionette	INFO	Marionette enabled
+1692815126420	Marionette	INFO	Listening on port 42341
+Read port: 42341
+1692815126673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1692815190056	geckodriver	INFO	Listening on 127.0.0.1:46257
+1692815191063	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileurgEm6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692815191879	Marionette	INFO	Marionette enabled
+1692815192005	Marionette	INFO	Listening on port 42141
+Read port: 42141
+1692815192264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1692815202855	Marionette	INFO	Stopped listening on port 42341
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692815299993	Marionette	INFO	Stopped listening on port 42141
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1692815304952	geckodriver	INFO	Listening on 127.0.0.1:46099
+1692815305957	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiXorcX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692815306761	Marionette	INFO	Marionette enabled
+1692815306848	Marionette	INFO	Listening on port 34561
+Read port: 34561
+1692815306991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692815350226	geckodriver	INFO	Listening on 127.0.0.1:42107
+1692815351232	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebJJidV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692815352011	Marionette	INFO	Marionette enabled
+1692815352097	Marionette	INFO	Listening on port 41949
+Read port: 41949
+1692815352282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692815413277	geckodriver	INFO	Listening on 127.0.0.1:46203
+1692815414289	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1fggFU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692815415037	Marionette	INFO	Marionette enabled
+1692815415127	Marionette	INFO	Listening on port 37061
+Read port: 37061
+1692815415315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692818883693	geckodriver	INFO	Listening on 127.0.0.1:37871
+1692818884700	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileizA7De"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692818886039	Marionette	INFO	Marionette enabled
+1692818886143	Marionette	INFO	Listening on port 34257
+Read port: 34257
+1692818886406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+
+(firefox:129706): Gtk-WARNING **: 16:44:06.379: Unknown paper size iso_a4_210x297mm_borderless
+[Parent 129706, Main Thread] WARNING: g_object_ref: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:129706): GLib-GObject-CRITICAL **: 16:44:06.382: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:129706): Gtk-WARNING **: 16:44:06.383: Unknown paper size iso_a4_210x297mm_borderless
+
+(/usr/lib/firefox/firefox-bin:129993): Gtk-WARNING **: 16:44:06.389: Unknown paper size iso_a4_210x297mm_borderless
+
+(/usr/lib/firefox/firefox-bin:129993): dconf-WARNING **: 16:44:06.709: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox-bin:129993): Gtk-WARNING **: 16:44:09.380: Unknown paper size iso_a4_210x297mm_borderless
+
+(firefox:129706): Gtk-WARNING **: 16:44:24.050: Unknown paper size iso_a4_210x297mm_borderless
+[Parent 129706, Main Thread] WARNING: g_object_ref: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:129706): GLib-GObject-CRITICAL **: 16:44:24.052: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:129706): Gtk-WARNING **: 16:44:24.056: Unknown paper size iso_a4_210x297mm_borderless
+
+(/usr/lib/firefox/firefox-bin:129993): Gtk-WARNING **: 16:44:24.062: Unknown paper size iso_a4_210x297mm_borderless
+
+(/usr/lib/firefox/firefox-bin:129993): Gtk-WARNING **: 16:44:36.906: Unknown paper size iso_a4_210x297mm_borderless
+
+(firefox:129706): Gtk-WARNING **: 16:44:42.573: Unknown paper size iso_a4_210x297mm_borderless
+[Parent 129706, Main Thread] WARNING: g_object_ref: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:129706): GLib-GObject-CRITICAL **: 16:44:42.574: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:129706): Gtk-WARNING **: 16:44:42.578: Unknown paper size iso_a4_210x297mm_borderless
+
+(/usr/lib/firefox/firefox-bin:129993): Gtk-WARNING **: 16:44:42.585: Unknown paper size iso_a4_210x297mm_borderless
+[Parent 129706, Main Thread] WARNING: g_object_ref: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:129706): GLib-GObject-CRITICAL **: 16:44:44.979: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+1692820168167	Marionette	INFO	Stopped listening on port 34257
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
